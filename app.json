@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "movio-2",
+    "slug": "movio-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "movio-2"
+}
