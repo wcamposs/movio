@@ -1,11 +1,31 @@
 {
   "expo": {
+    "entryPoint": "./src/App.js",
     "name": "movio-2",
     "slug": "movio-2",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.movio.movio",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.movio.movio",
+      "versionCode": 1
+    }
   },
   "name": "movio-2"
 }
