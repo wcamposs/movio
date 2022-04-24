@@ -1,8 +1,8 @@
 {
   "expo": {
     "entryPoint": "./src/App.js",
-    "name": "movio-2",
-    "slug": "movio-2",
+    "name": "Movio",
+    "slug": "Movio",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
@@ -27,5 +27,5 @@
       "versionCode": 1
     }
   },
-  "name": "movio-2"
+  "name": "Movio"
 }
