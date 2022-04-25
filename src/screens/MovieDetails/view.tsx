@@ -58,6 +58,7 @@ function MovieDetailsView({
           play={playing}
           videoId={trailer.key}
           onChangeState={onStateChange}
+          webViewStyle={{ opacity: 0.99 }}
         />
       </View>
     );
