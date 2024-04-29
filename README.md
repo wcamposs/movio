@@ -2,7 +2,7 @@
 
 A simple movie list and search app, developed in React Native with bare Expo project and Axios using the MVVM architecture.
 
-<!-- ![](https://imgur.com/mqlQYyF) -->
+![movio](https://github.com/wcamposs/movio/assets/36939543/ef814836-1749-4532-a767-0776d9c2ecff)
 
 ## Description:
 
